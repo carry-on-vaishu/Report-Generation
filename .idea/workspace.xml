@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="875425d5-939f-4593-9b9b-2e082594d22e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BackOffice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/pages/login-soft.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="158" selection-start-line="158" selection-end-line="158" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>idName</find>
+      <find>add</find>
+      <find>jqu</find>
+      <find>script</find>
+      <find>description</find>
+      <find>delete</find>
+      <find>id</find>
+      <find>playerid</find>
+      <find>score</find>
+      <find>mycanvas</find>
+      <find>chart</find>
+      <find>plugin</find>
+      <find>plu</find>
+      <find>chart_div</find>
+      <find>piechart_div</find>
+      <find>for</find>
+      <find>arrVa</find>
+      <find>create</find>
+      <find>month</find>
+      <find>no</find>
+      <find>post</find>
+      <find>post_id</find>
+      <find>footer</find>
+      <find>blog</find>
+      <find>div</find>
+      <find>style</find>
+      <find>arti</find>
+      <find>dashboard</find>
+      <find>img</find>
+      <find>src</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>conn.query(</replace>
+      <replace>Packages</replace>
+      <replace>Airports</replace>
+      <replace>car_category</replace>
+      <replace>airport</replace>
+      <replace>addCarCategory</replace>
+      <replace>carcategory</replace>
+      <replace>CityCar</replace>
+      <replace>intracity_charges</replace>
+      <replace>IntraCharges</replace>
+      <replace>addAdmin</replace>
+      <replace>admin</replace>
+      <replace>student</replace>
+      <replace>../</replace>
+      <replace>Student</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/controller/Master/IntraChargesController.js" />
+        <option value="$PROJECT_DIR$/views/Masters/index.ejs" />
+        <option value="$PROJECT_DIR$/models/IntraCharges.js" />
+        <option value="$PROJECT_DIR$/views/Masters/viewIntraCharges.ejs" />
+        <option value="$PROJECT_DIR$/views/Masters/addIntraCharges.ejs" />
+        <option value="$PROJECT_DIR$/controller/index.js" />
+        <option value="$PROJECT_DIR$/controller/Master/AirportController.js" />
+        <option value="$PROJECT_DIR$/config/config.js" />
+        <option value="$PROJECT_DIR$/views/layouts/header.ejs" />
+        <option value="$PROJECT_DIR$/views/layouts/sidebar.ejs" />
+        <option value="$PROJECT_DIR$/views/viewAdmin.ejs" />
+        <option value="$PROJECT_DIR$/views/frontEnd/index.ejs" />
+        <option value="$PROJECT_DIR$/controller/frontController.js" />
+        <option value="$PROJECT_DIR$/controller/UserController.js" />
+        <option value="$PROJECT_DIR$/config/keys.js" />
+        <option value="$PROJECT_DIR$/public/plugins/paging_demo.js" />
+        <option value="$PROJECT_DIR$/public/frontEnd/css/mystyle.css" />
+        <option value="$PROJECT_DIR$/public/frontEnd/vendor/bootstrap/bootstrap.css" />
+        <option value="$PROJECT_DIR$/public/plugins/jquery.easyPaginate.js" />
+        <option value="$PROJECT_DIR$/public/frontEnd/test/comments.js" />
+        <option value="$PROJECT_DIR$/public/last/css/mystyle.css" />
+        <option value="$PROJECT_DIR$/views/frontEnd/blogDetails.ejs" />
+        <option value="$PROJECT_DIR$/public/plugins/Chart.min.js" />
+        <option value="$PROJECT_DIR$/public/chart/Chart.js" />
+        <option value="$PROJECT_DIR$/views/frontEnd/pie.ejs" />
+        <option value="$PROJECT_DIR$/public/chart/linechart.js" />
+        <option value="$PROJECT_DIR$/views/frontEnd/chart.ejs" />
+        <option value="$PROJECT_DIR$/views/editStudent.ejs" />
+        <option value="$PROJECT_DIR$/public/last/css/style.css" />
+        <option value="$PROJECT_DIR$/views/frontEnd/user.ejs" />
+        <option value="$PROJECT_DIR$/public/frontEnd/css/style.css" />
+        <option value="$PROJECT_DIR$/controller/userController.js" />
+        <option value="$PROJECT_DIR$/public/chart/app.js" />
+        <option value="$PROJECT_DIR$/views/chart.ejs" />
+        <option value="$PROJECT_DIR$/views/addStudent.ejs" />
+        <option value="$PROJECT_DIR$/views/register.ejs" />
+        <option value="$PROJECT_DIR$/models/Admin.js" />
+        <option value="$PROJECT_DIR$/public/chart/graphhh.js" />
+        <option value="$PROJECT_DIR$/models/Student.js" />
+        <option value="$PROJECT_DIR$/views/line.ejs" />
+        <option value="$PROJECT_DIR$/views/viewStudent.ejs" />
+        <option value="$PROJECT_DIR$/controller/StudentController.js" />
+        <option value="$PROJECT_DIR$/views/dashboard.ejs" />
+        <option value="$PROJECT_DIR$/public/LineChart/graphhh.js" />
+        <option value="$PROJECT_DIR$/config/routes.js" />
+        <option value="$PROJECT_DIR$/controller/AdminController.js" />
+        <option value="$PROJECT_DIR$/views/login.ejs" />
+        <option value="$PROJECT_DIR$/public/css/pages/login-soft.css" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/config/database.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Pug/Jade</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Report Generation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Report Generation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.meteor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CTCABZ\Node js example\StudentMGT\views" />
+      <recent name="D:\CTCABZ\CTCABZ\BackOffice\views\Masters" />
+      <recent name="D:\CTCABZ\CTCABZ\BackOffice\controller\Master" />
+      <recent name="D:\CTCABZ\CTCABZ\BackOffice\models" />
+      <recent name="D:\CTCABZ\CTCABZ\BackOffice\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="finalNode" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\ss\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="875425d5-939f-4593-9b9b-2e082594d22e" name="Default" comment="" />
+      <created>1496207554906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496207554906</updated>
+      <workItem from="1496207556473" duration="1931000" />
+      <workItem from="1496231183239" duration="6491000" />
+      <workItem from="1496242213253" duration="4666000" />
+      <workItem from="1496292741885" duration="1065000" />
+      <workItem from="1496294565463" duration="4547000" />
+      <workItem from="1496406721187" duration="595000" />
+      <workItem from="1496408494755" duration="7706000" />
+      <workItem from="1496554462878" duration="895000" />
+      <workItem from="1496560822319" duration="631000" />
+      <workItem from="1496568508185" duration="1489000" />
+      <workItem from="1496664121530" duration="4203000" />
+      <workItem from="1496727965916" duration="1795000" />
+      <workItem from="1496830253606" duration="919000" />
+      <workItem from="1496834388510" duration="1752000" />
+      <workItem from="1496838307506" duration="7808000" />
+      <workItem from="1496898899988" duration="2044000" />
+      <workItem from="1497009346137" duration="595000" />
+      <workItem from="1497158379056" duration="5867000" />
+      <workItem from="1497172978794" duration="6889000" />
+      <workItem from="1497181507922" duration="1486000" />
+      <workItem from="1497186043910" duration="618000" />
+      <workItem from="1497187972047" duration="2789000" />
+      <workItem from="1497251765275" duration="1505000" />
+      <workItem from="1497257899791" duration="5402000" />
+      <workItem from="1497268562902" duration="530000" />
+      <workItem from="1497273322923" duration="822000" />
+      <workItem from="1498025724335" duration="315000" />
+      <workItem from="1498122510314" duration="598000" />
+      <workItem from="1498386759504" duration="596000" />
+      <workItem from="1506831901807" duration="3217000" />
+      <workItem from="1516427042632" duration="10277000" />
+      <workItem from="1516773699970" duration="4166000" />
+      <workItem from="1517468234105" duration="16396000" />
+      <workItem from="1517548186715" duration="268000" />
+      <workItem from="1517549365382" duration="3741000" />
+      <workItem from="1517554189556" duration="13751000" />
+      <workItem from="1517724313382" duration="690000" />
+      <workItem from="1517729991448" duration="1110000" />
+      <workItem from="1518190977759" duration="4815000" />
+      <workItem from="1518444157454" duration="66000" />
+      <workItem from="1518542628369" duration="943000" />
+      <workItem from="1514828400898" duration="787000" />
+      <workItem from="1512150819093" duration="592000" />
+      <workItem from="1512151449664" duration="224000" />
+      <workItem from="1514916509962" duration="309000" />
+      <workItem from="1514916897201" duration="80000" />
+      <workItem from="1545715141149" duration="112000" />
+      <workItem from="1545715809936" duration="180000" />
+      <workItem from="1545717015882" duration="1331000" />
+      <workItem from="1545719537037" duration="9061000" />
+      <workItem from="1545802250892" duration="4098000" />
+      <workItem from="1545975324379" duration="6685000" />
+      <workItem from="1545992728450" duration="1194000" />
+      <workItem from="1546152059726" duration="4054000" />
+      <workItem from="1546583356605" duration="2505000" />
+      <workItem from="1546682885394" duration="1537000" />
+      <workItem from="1546685118566" duration="11123000" />
+      <workItem from="1546712948536" duration="1778000" />
+      <workItem from="1546753168139" duration="7025000" />
+      <workItem from="1546764594592" duration="4795000" />
+      <workItem from="1546839260394" duration="2594000" />
+      <workItem from="1546845344410" duration="3508000" />
+      <workItem from="1546925190386" duration="8815000" />
+      <workItem from="1546941358073" duration="6237000" />
+      <workItem from="1546965888295" duration="2645000" />
+      <workItem from="1547011915115" duration="3262000" />
+      <workItem from="1547016044960" duration="7499000" />
+      <workItem from="1547028192630" duration="6392000" />
+      <workItem from="1547049620842" duration="2014000" />
+      <workItem from="1547099295866" duration="699000" />
+      <workItem from="1547101827311" duration="835000" />
+      <workItem from="1547115737334" duration="5788000" />
+      <workItem from="1547184842842" duration="11294000" />
+      <workItem from="1547204191882" duration="3475000" />
+      <workItem from="1547220938062" duration="8219000" />
+      <workItem from="1547298191267" duration="1455000" />
+      <workItem from="1547399467341" duration="1729000" />
+      <workItem from="1547443206773" duration="912000" />
+      <workItem from="1547445024603" duration="6288000" />
+      <workItem from="1547488858893" duration="594000" />
+      <workItem from="1547704175830" duration="1987000" />
+      <workItem from="1547708395884" duration="2116000" />
+      <workItem from="1547719755188" duration="6346000" />
+      <workItem from="1547745263462" duration="1306000" />
+      <workItem from="1547789553031" duration="6889000" />
+      <workItem from="1547801618054" duration="621000" />
+      <workItem from="1547809733972" duration="1205000" />
+      <workItem from="1547918054818" duration="586000" />
+      <workItem from="1547968635827" duration="14000" />
+      <workItem from="1547982411957" duration="1710000" />
+      <workItem from="1547984958655" duration="1179000" />
+      <workItem from="1548005244741" duration="1448000" />
+      <workItem from="1548007351704" duration="384000" />
+      <workItem from="1548046855363" duration="1542000" />
+      <workItem from="1548048587255" duration="2192000" />
+      <workItem from="1548053036931" duration="8715000" />
+      <workItem from="1548134667603" duration="6046000" />
+      <workItem from="1548154612476" duration="4410000" />
+      <workItem from="1548174405363" duration="5035000" />
+      <workItem from="1548222401398" duration="2984000" />
+      <workItem from="1548226013219" duration="275000" />
+      <workItem from="1548226448815" duration="5105000" />
+      <workItem from="1552304791565" duration="4075000" />
+      <workItem from="1552389137505" duration="7326000" />
+      <workItem from="1552398039040" duration="7486000" />
+      <workItem from="1552407934821" duration="823000" />
+      <workItem from="1552408832489" duration="1204000" />
+      <workItem from="1552477023438" duration="502000" />
+      <workItem from="1552479961246" duration="5226000" />
+      <workItem from="1553173397694" duration="1159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="367609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85356456" visible="true" weight="0.1904762" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.14643545" side_tool="true" weight="0.1688988" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49479166" visible="true" weight="0.3267974" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49702382" weight="0.3970588" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49479166" weight="0.3267974" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49702382" visible="true" weight="0.31699347" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5052083" side_tool="true" weight="0.25816995" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1070</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1063</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1054</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1033</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1046</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1076</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1158</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1207</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1217</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1227</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1236</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1155</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>906</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1106</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1111</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1118</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>999</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1042</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1001</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1005</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1004</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1030</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1264</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1275</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1282</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1289</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Customer/CustomerController.js</url>
+          <line>1266</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/models/Packages.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/models/Packages.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/models/Packages.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Master/PackagesController.js</url>
+          <line>48</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Master/PackagesController.js</url>
+          <line>51</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/Master/PackagesController.js</url>
+          <line>54</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/models/Airport.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/models/Airport.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/models/Airport.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/index.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/index.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/index.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/frontEnd/test/comments.js</url>
+          <line>32</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/frontEnd/test/comments.js</url>
+          <line>34</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/frontEnd/test/comments.js</url>
+          <line>36</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/frontEnd/test/comments.js</url>
+          <line>39</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/public/frontEnd/test/comments.js</url>
+          <line>29</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/StudentController.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/StudentController.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controller/StudentController.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/frontEnd/js/theme.js" />
+    <entry file="file://$PROJECT_DIR$/public/frontEnd/css/mystyle.css" />
+    <entry file="file://$PROJECT_DIR$/views/frontEnd/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/frontEnd/vendor/bootstrap/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/public/frontEnd/vendor/bootstrap/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/public/plugins/jquery.easyPaginate.js" />
+    <entry file="file://$PROJECT_DIR$/public/last/js/js.js" />
+    <entry file="file://$PROJECT_DIR$/public/last/js/tabifier.js" />
+    <entry file="file://$PROJECT_DIR$/public/last/css/animate.css" />
+    <entry file="file://$PROJECT_DIR$/public/last/css/jPages.css" />
+    <entry file="file://$PROJECT_DIR$/public/last/js/highlight.pack.js" />
+    <entry file="file://$PROJECT_DIR$/public/last/js/jPages.js" />
+    <entry file="file://$PROJECT_DIR$/public/last/js/jquery-1.8.2.min.js" />
+    <entry file="file://$PROJECT_DIR$/public/last/js/jquery.lazyload.js" />
+    <entry file="file://$PROJECT_DIR$/public/last/css/mystyle.css" />
+    <entry file="file://$PROJECT_DIR$/public/frontEnd/test/comments.js" />
+    <entry file="file://$PROJECT_DIR$/public/frontEnd/test/comments.css" />
+    <entry file="file://$PROJECT_DIR$/public/plugins/Chart.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/chart/linegraph.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/chart/linechart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/editStudent.ejs" />
+    <entry file="file://$PROJECT_DIR$/public/last/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/views/frontEnd/blogDetails.ejs" />
+    <entry file="file://$PROJECT_DIR$/public/frontEnd/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/views/frontEnd/user.ejs" />
+    <entry file="file://$PROJECT_DIR$/controller/userController.js" />
+    <entry file="file://$PROJECT_DIR$/views/Toast.ejs" />
+    <entry file="file://$PROJECT_DIR$/views/frontEnd/pie.ejs" />
+    <entry file="file://$PROJECT_DIR$/views/frontEnd/chart.ejs" />
+    <entry file="file://$PROJECT_DIR$/public/chart/app.js" />
+    <entry file="file://$PROJECT_DIR$/views/chart.ejs" />
+    <entry file="file://$PROJECT_DIR$/views/addStudent.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="124" column="51" selection-start-line="124" selection-start-column="51" selection-end-line="124" selection-end-column="51" />
+          <folding>
+            <element signature="e#6596#6602#0#HTML" expanded="true" />
+            <element signature="e#6595#6601#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/register.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/chart/graphhh.js" />
+    <entry file="file://$PROJECT_DIR$/models/Student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/viewStudent.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="43" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/line.ejs" />
+    <entry file="file://$PROJECT_DIR$/public/LineChart/graphhh.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/dashboard.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="144" column="18" selection-start-line="144" selection-start-column="18" selection-end-line="144" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/AdminController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="15" lean-forward="true" selection-start-line="118" selection-start-column="15" selection-end-line="118" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/chart/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/StudentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/pages/login-soft.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
